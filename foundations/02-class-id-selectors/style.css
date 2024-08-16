@@ -7,3 +7,13 @@
     color: rgb(5, 5, 247); 
     font-size: 32px;
 }
+
+#four {
+    background-color: rgb(47, 230, 47);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.oddplus {
+    font-size: 24px;
+}
